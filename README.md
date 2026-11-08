@@ -32,3 +32,5 @@ I am also a Certified Scrum Master and am trained in ITSM/ITIL and Lean Six Sigm
 - Build a hands-on understanding of ML and AI
 - Develop practical, repeatable patterns for secure AI use in organizations
 - Share what I learn along the way with my organization
+
+[📄 Resume](David Huang Resume - GitHub.pdf)
