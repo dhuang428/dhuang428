@@ -18,6 +18,7 @@ I am also a Certified Scrum Master and am trained in ITSM/ITIL and Lean Six Sigm
 
 ## Areas I Am Developing
 
+- **Platforms and Tools:** Linux, Git, Azure
 - **Languages:** Python, C, Java
 - **Areas of Computer Science:** machine learning, networking, systems programming, security
 
