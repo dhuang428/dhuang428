@@ -6,7 +6,7 @@ I am a driven, results oriented professional who is a GE-trained project manager
 
 I entered the workforce with a major in Computer Science and began my career as a developer for FleetBoston Financial. I then transitioned to GE where I grew my technical and leadership skills through the highly selective Information Management Leadership Program, within the financial services industry with GE Capital, and then within the sourcing & purchasing space supporting GE's enterprise indirect Source to Pay platform.
 
-I then transitioned through various roles at the Lane Construction Corporation. First as a an Application Development Manager, then as a Solution Architect, and am currently IT Director.
+I then transitioned through various roles at the Lane Construction Corporation. First as a an Application Development Manager, then as a Solution Architect, and now as IT Director.
 
 I am also a Certified Scrum Master and am trained in ITSM/ITIL and Lean Six Sigma.
 
